@@ -7,6 +7,6 @@ package cn.infomany;
  */
 public class Main {
     public static void main(String[] args) {
-
+//https://www.cnblogs.com/shenlanzhizun/p/6027042.html
     }
 }
